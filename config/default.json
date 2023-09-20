@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://zzinue:belkerleon1@cluster0.mjbwykn.mongodb.net/"
+  "mongoURI": "mongodb+srv://zzinue:belkerleon1@cluster0.mjbwykn.mongodb.net/",
+  "jwtSecret": "mysecrettoken"
 }
